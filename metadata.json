@@ -1,0 +1,6 @@
+{
+  "name": "Bolkar Kaam",
+  "description": "Aapki Awaaz, Aapka Digital Sahayak - AI voice assistant for Hindi, Hinglish, and English speakers with document explainer, writing assistant, and translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
